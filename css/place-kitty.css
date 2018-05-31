@@ -18,6 +18,7 @@
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
+#basket a
  {
   position: absolute;
   z-index: 5;
